@@ -1,0 +1,2 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+XYZCorp_LendingData.txt filter=lfs diff=lfs merge=lfs -text
